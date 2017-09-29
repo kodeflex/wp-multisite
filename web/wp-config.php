@@ -108,6 +108,9 @@ define('FS_METHOD', 'direct');
 define( 'FORCE_SSL_LOGIN', false);
 define( 'FORCE_SSL_ADMIN', false);
 
+/* Multisite */
+define( 'WP_ALLOW_MULTISITE', true );
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
